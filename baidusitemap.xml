@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/06/03/heroku%E9%83%A8%E7%BD%B2SS/</loc>
+    <lastmod>2017-06-03T14:29:48.617Z</lastmod>
+    <data>
+        <display>
+        <title>heroku部署SS</title>
+        <pubTime>2017-06-03T14:03:58.000Z</pubTime>
+        
+        <tag>其他</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/05/24/Hello/</loc>
+    <lastmod>2017-06-03T14:15:16.049Z</lastmod>
+    <data>
+        <display>
+        <title>Hello</title>
+        <pubTime>2017-05-24T13:02:50.000Z</pubTime>
+        
+        <tag>杂谈</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
